@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["buffer","handle","slice"],"struct":["BaseHandle"],"type":["ArcHandle","Handle","RefHandle","SliceHandle","SliceIterHandle"]};

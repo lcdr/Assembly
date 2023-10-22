@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["LoadError"],"fn":["get_settings","parse_control1","parse_dsref_schema_contents","parse_relationship","parse_sch_grid"],"struct":["Control1","DSRefSchemaContents","DSRefSchemaEntry","Relationship","SchGrid","SettingsError","SysDiagram","Table"],"type":["LoadResult","StringMap"]};
